@@ -1,2 +1,2 @@
-# 7nm-FinFET-inverter-design-and-analysis
-Design of inverter using 7nm FinFET and performance analysis
+# 7nm-FinFET-inverter-and BGR-design
+Design of inverter and BGR using 7nm FinFET and performance analysis
